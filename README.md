@@ -14,6 +14,7 @@
 ![Mobile First](https://img.shields.io/badge/Mobile--First-Design-orange?style=for-the-badge)
 ![Dark Mode](https://img.shields.io/badge/Dark%20Mode-Enabled-333333?style=for-the-badge&logo=halfmoon&logoColor=white)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cdf8cca6-9ddb-4011-a3db-464d7319c932/deploy-status)](https://social-links-profile-fm-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%203-blue)
 
@@ -21,14 +22,14 @@
 
 <div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 1em">
   <figure style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0.25em">
-    <img src="./img/site-preview-mobile_375x812.png" alt="Mobile site preview." width="250">
+    <img src="./img/site-preview-mobile_375x812.png" alt="Mobile site preview." width="200">
     <figcaption>
       <i>Mobile (375x812)</i>
     </figcaption>
   </figure>
 
   <figure style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0.25em">
-    <img src="./img/site-preview-desktop_1440x960.png" alt="Desktop site preview." width="600">
+    <img src="./img/site-preview-desktop_1440x960.png" alt="Desktop site preview." width="400">
     <figcaption>
       <i>Desktop (1440x960)</i>
     </figcaption>
@@ -93,7 +94,7 @@ The project adapts beautifully from mobile to desktop screens, uses semantic mar
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](SITE_LINK)
+Or you can check out the 👉 [live website here](https://social-links-profile-fm-jiro.netlify.app/)
 
 ---
 
@@ -104,10 +105,3 @@ Created by **Elmar Chavez**
 🗓️ Month/Year: **June 2025**
 
 📚 Journey: **3<sup>rd</sup>** month of learning _frontend web development_.
-
-<!--
-
-FRONTEND MENTOR TAGS:
-html css vscode git github netlify 3rd-month frontend-mentor project
-
--->

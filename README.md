@@ -20,9 +20,9 @@
 
 ## ℹ️ A Social Links Profile Landing Page
 
-| Mobile Preview (375x812)                         | Desktop Preview (1440x960)                          |
-| ------------------------------------------------ | --------------------------------------------------- |
 | ![Mobile](./img/site-preview-mobile_375x812.png) | ![Desktop](./img/site-preview-desktop_1440x960.png) |
+| ------------------------------------------------ | --------------------------------------------------- |
+| _Mobile Preview (375x812)_                       | _Desktop Preview (1440x960)_                        |
 
 This project is a responsive social links profile card, created using only HTML and CSS. It includes a profile image, user information, and links to social media platforms.
 

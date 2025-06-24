@@ -20,21 +20,9 @@
 
 ## ℹ️ A Social Links Profile Landing Page
 
-<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center; margin-bottom: 1em">
-  <figure style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0.25em">
-    <img src="./img/site-preview-mobile_375x812.png" alt="Mobile site preview." width="200">
-    <figcaption>
-      <i>Mobile (375x812)</i>
-    </figcaption>
-  </figure>
-
-  <figure style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0.25em">
-    <img src="./img/site-preview-desktop_1440x960.png" alt="Desktop site preview." width="400">
-    <figcaption>
-      <i>Desktop (1440x960)</i>
-    </figcaption>
-  </figure>
-</div>
+| Mobile Preview (375x812)                         | Desktop Preview (1440x960)                          |
+| ------------------------------------------------ | --------------------------------------------------- |
+| ![Mobile](./img/site-preview-mobile_375x812.png) | ![Desktop](./img/site-preview-desktop_1440x960.png) |
 
 This project is a responsive social links profile card, created using only HTML and CSS. It includes a profile image, user information, and links to social media platforms.
 
